@@ -1,0 +1,3 @@
+nest generate module gestion-cursos
+nest generate controller gestion-cursos
+nest generate service gestion-cursos
