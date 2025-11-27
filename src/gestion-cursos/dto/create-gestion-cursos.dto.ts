@@ -31,4 +31,5 @@ export class CreateGestionCursosDto {
 
   @IsString()
   estado: string;
+  
 }

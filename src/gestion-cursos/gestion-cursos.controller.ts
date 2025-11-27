@@ -31,4 +31,5 @@ export class GestionCursosController {
     remove(@Param('id') id: string) {
         return this.GestionCursosService.remove(id);
     }
+    
 }

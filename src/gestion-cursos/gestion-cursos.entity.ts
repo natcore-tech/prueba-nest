@@ -34,4 +34,5 @@ export class GestionCursos {
 
   @Column()
   estado: string;
+  
 }
